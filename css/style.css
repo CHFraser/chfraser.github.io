@@ -1,0 +1,30 @@
+   /* Custom styles for the navigation menu */
+   body {
+    background-color: #060514;
+    color: #fff;
+  }
+  
+  .navbar {
+    background-color: transparent;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+  }
+
+  .navbar-toggler {
+    border-color: #fff;
+    color: #fff;
+  }
+  /*Hero Section*/
+  #hero{
+    background-image: url('../images/hero-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  /*Projects*/
+ .card {
+    background-color: #483C73;
+ }
