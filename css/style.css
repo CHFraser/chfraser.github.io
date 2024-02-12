@@ -1,0 +1,67 @@
+   /* Custom styles for the navigation menu */
+   body {
+    font-family: "Raleway", sans-serif;
+    background-color: #060514;
+    color: #fff;
+  }
+
+  h1,h2,h3,h4.h5,a{
+    font-family: "Raleway", sans-serif;
+  }
+  
+  .navbar {
+    background-color: transparent;
+  }
+
+  .underline{
+    border-bottom: 2px solid #483C73;
+    padding-bottom: 5px;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+  }
+
+  .navbar-toggler {
+    border-color: #fff;
+    color: #fff;
+  }
+  /*Hero Section*/
+  #hero{
+    background-image: url('../images/hero-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  .button {
+    background-color: #483C73; 
+    color: #fff;
+  }
+  
+  .button:hover{
+    background-color: #2d2251;
+  }
+
+  .border-class {
+    border: 5px solid #483C73;
+  }
+
+  /*Projects*/
+ .card {
+    background-color: #060514;
+    border: 5px solid #483C73;
+ }
+ 
+ .icons{
+  color: #fff;
+ }
+
+ .icons:hover {
+  color: #2d2251  !important;
+ }
+
+ .purple{
+  color:#a690f7;
+ }
+
